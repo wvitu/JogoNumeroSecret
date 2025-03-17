@@ -18,6 +18,8 @@ while (chute != numeroSecreto) {
         }
         // Para atribuir mais 1 é só adicionar ++
         // ex tentativas = tentativas + 1
-        tentativas++
+        tentativas++ 
+
     }
 }
+console.log 
